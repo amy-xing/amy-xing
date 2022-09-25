@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello!
+I am Amy and a sophomore at Johns Hopkins University studying Applied Mathematics and Statistics & Computer Science.
+Email me at axing1@jhu.edu
 
 <!--
 **amy-xing/amy-xing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
