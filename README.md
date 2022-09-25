@@ -1,5 +1,5 @@
 ## Hello!
-I am Amy and a sophomore at Johns Hopkins University studying Applied Mathematics and Statistics & Computer Science.
+I am Amy and I'm a sophomore at Johns Hopkins University studying Applied Mathematics and Statistics & Computer Science.
 Email me at axing1@jhu.edu
 
 <!--
